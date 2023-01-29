@@ -9,6 +9,8 @@
   <img align="center" alt="Andino-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Andino-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Andino-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Andino-Python" height="30" width="40" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  
   <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/564x/e1/57/78/e15778f73d70aad9e6f0679f34f96dff.jpg">
   
 </div>
